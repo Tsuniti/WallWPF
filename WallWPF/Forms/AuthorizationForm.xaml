@@ -6,6 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:userComponents="clr-namespace:WallWPF.Components"
         xmlns:local="clr-namespace:WallWPF.Forms"
+        Title="Authorization"
         mc:Ignorable="d"
         Width="450" SizeToContent="Height"
         TextElement.Foreground="{DynamicResource Text}"

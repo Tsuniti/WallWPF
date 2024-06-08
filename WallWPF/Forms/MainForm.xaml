@@ -8,7 +8,7 @@
         xmlns:local="clr-namespace:WallWPF.Forms"
         xmlns:userComponents="clr-namespace:WallWPF.Components"
         mc:Ignorable="d"
-        Title="MainWindow" Width="600" Height="700"
+        Title="Wall" Width="600" Height="700"
         d:Background="{x:Null}"
         AllowsTransparency="True"
         WindowStyle="None"
